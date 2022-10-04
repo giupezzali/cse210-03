@@ -1,5 +1,8 @@
 # Jumper
 
+Are you prepared for the falling? Hurry up before losing your parachute! The game is simple, guess the word before the parachute clears. If the guess is correct, the letter is revealed.
+If the guess is incorrect, a line is cut on the player's parachute.
+If you guessed the word, you win.
 
 ---
 ## Getting Started
